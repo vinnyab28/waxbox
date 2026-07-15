@@ -1,0 +1,588 @@
+# The Wax Box by MC — Website Project
+
+## Professional Context
+
+You're a professional static website developer who can build websites following the theme of the business from the logo and graphics provided by the client. The styles should match the design just as according to the vision of the company.
+
+---
+
+## Project Overview
+
+Building a website for a waxing beauty studio in Etobicoke. The client took help of another friend who created a draft with SEO-friendly content. This document compiles all provided information and content for implementation.
+
+---
+
+## Business Information
+
+**Business Name:** The Wax Box by MC
+
+**Contact Details:**
+
+- Email: the.wax.box@outlook.com
+- Phone: (to be provided)
+- Instagram: https://www.instagram.com/thewaxboxbymc?igsh=ZHZjeWxmaXA4cTJ1&utm_source=qr
+
+**Location:**
+
+```
+Salons by JC
+170 North Queen Street
+Unit K Suite #50
+Etobicoke, Ontario
+M9C 1B1
+```
+
+**Booking Platform:** https://www.fresha.com/book-now/the-wax-room-ndhjrqek/all-offer?share=true&pId=2995913
+
+**Design Assets:**
+
+- Logo: In images folder
+- Social media graphics: In images folder
+
+---
+
+## Content Notes from Nicole (Original Designer)
+
+> Hi,
+>
+> Here's my first draft of the content for your website. You'll notice that certain details repeat throughout the pages — that's intentional. Google rewards consistency, especially for local businesses, and repeating your location helps your site rank higher for searches like "waxing Etobicoke," "brow lamination near Sherway Gardens," and "lash tinting North Queen St."
+>
+> I highlighted a few areas where I wasn't sure what name you want to use. I know your real name, but you mentioned you prefer using a different one for safety, so feel free to update those sections however you like.
+>
+> This is just the framework. Once you read through it, you can add personal touches, stories, or anything that feels authentically you — that will make the site even stronger.
+>
+> I also suggested adding a couple of blog posts. Don't stress about writing them yourself — Copilot can generate great drafts for you, and you can simply review them for accuracy. It even included some topic ideas to help you get started.
+>
+> Let me know what you think, and we can keep refining everything until it feels perfect.
+>
+> Nicole.
+
+---
+
+## 🧡 HOME PAGE (SEO-Optimized)
+
+**Headline:** Smooth Skin, Expert Care — Your Trusted Esthetician in Etobicoke
+
+**Hero Copy:**
+Welcome to [Business Name], your new go‑to beauty studio for professional waxing, brow shaping, brow lamination, and lash tinting in Etobicoke. Located at 170 North Queen St., in the same plaza as Dollarama, our studio offers a warm, welcoming environment with plenty of free parking and easy access from Sherway Gardens, The Queensway, and Highway 427.
+
+With over 23 years of experience, you're in the hands of an esthetician who blends expertise with genuine care. Every appointment is designed to help you feel confident, comfortable, and beautifully you — whether you're visiting for a quick brow tint or a full Brazilian wax.
+
+### Your Etobicoke Beauty Studio
+
+Our studio is built around comfort, cleanliness, and personalized care. From the moment you walk in, you'll feel the difference: a cozy, private space where you can relax, unwind, and enjoy high‑quality esthetic services tailored to your needs.
+
+**Clients choose us because we offer:**
+
+- Professional waxing in Etobicoke using gentle, efficient techniques
+- Expert brow lamination and brow tinting for fuller, more defined brows
+- Lash tinting that enhances your natural beauty without mascara
+- A clean, calming studio environment
+- A friendly esthetician who treats every client like family
+- A convenient location with free parking steps from the door
+
+Whether you're preparing for a vacation, maintaining your monthly beauty routine, or trying brow lamination for the first time, you'll feel supported every step of the way.
+
+### Why Clients Love Us
+
+**23+ Years of Experience**
+With over two decades in professional esthetics, you'll receive expert care from someone who has worked with thousands of clients and perfected gentle, effective techniques.
+
+**Gentle, Efficient Waxing Techniques**
+Our waxing services are known for being quick, clean, and as comfortable as possible. We use high‑quality products suitable for sensitive skin.
+
+**Personalized Brow & Lash Treatments**
+Every brow and lash service is customized to your face shape, hair type, and beauty goals. Whether you want bold brows, fluffy brows, or natural definition, we tailor the results to you.
+
+**Warm, Friendly Care**
+Clients often describe their experience as relaxing, comforting, and welcoming. You're never rushed — every appointment is designed to make you feel cared for.
+
+**Convenient Etobicoke Location**
+Located at 170 North Queen St., our studio is easy to find, easy to access, and surrounded by popular landmarks like Sherway Gardens, IKEA Etobicoke, and The Queensway.
+
+### Featured Services
+
+**Body & Facial Waxing**
+Smooth, long‑lasting results using gentle techniques and high‑quality wax. Perfect for sensitive skin.
+
+**Eyebrow Tinting & Shaping**
+Enhance your natural brow colour and shape for a fuller, more defined look.
+
+**Brow Lamination**
+Lift, smooth, and shape your brows for a fluffy, polished, long‑lasting finish.
+
+**Eyelash Tinting**
+Darken and define your lashes for a natural, mascara‑free look.
+
+### Your Beauty Routine, Made Easy
+
+Whether you're searching for waxing near me, brow lamination Etobicoke, or lash tinting close to Sherway Gardens, you've found your new favourite studio. Our goal is to make every visit simple, enjoyable, and confidence‑boosting.
+
+### Book Your Appointment
+
+Experience expert care from one of Etobicoke's most trusted estheticians. Book your appointment today and enjoy smooth skin, beautiful brows, and naturally defined lashes — all in a warm, welcoming studio with free parking.
+
+---
+
+## 🌿 ABOUT ME (SEO-Optimized)
+
+**Headline:** Meet [Her Name] — Your Esthetician in Etobicoke
+
+Hi, I'm [Her Name], and I've been an esthetician for over 23 years. My career began with a simple goal: to help people feel confident in their skin. Over the years, I've worked with thousands of clients, perfected gentle waxing techniques, and developed a reputation for being one of the sweetest, most detail‑oriented estheticians in the community.
+
+I believe beauty should feel comfortable, approachable, and stress‑free. Whether you're coming in for a quick brow tint or a full waxing session, my goal is to make you feel relaxed, cared for, and confident.
+
+### My Philosophy
+
+Beauty is personal — and your experience should reflect that. I take the time to understand your needs, your comfort level, and your goals. Every appointment is private, calm, and tailored to you. I want you to leave feeling refreshed, confident, and beautiful.
+
+### My Experience
+
+With over two decades in professional esthetics, I specialize in:
+
+- Waxing (body & facial)
+- Eyebrow shaping
+- Eyebrow tinting
+- Brow lamination
+- Lash tinting
+
+I'm known for my gentle technique, precision, and warm personality. Many clients tell me they look forward to their appointments because they feel comfortable, supported, and never rushed.
+
+### My Studio
+
+My studio is located at 170 North Queen St., Etobicoke, in the same plaza as Dollarama. It's easy to find, easy to access, and has lots of free parking — because your beauty routine should never feel stressful.
+
+Inside, you'll find a clean, cozy, welcoming space designed to help you relax. Whether you're visiting for waxing, brow lamination, or lash tinting, you'll enjoy a calm, private environment where you can unwind and feel taken care of.
+
+### Why I Love What I Do
+
+I love helping people feel confident. I love seeing clients smile when they look in the mirror. And I love creating a space where people feel comfortable, supported, and beautiful.
+
+I can't wait to meet you and help you feel your best.
+
+---
+
+## ✨ SERVICES PAGE (SEO-Optimized)
+
+**Headline:** Professional Waxing, Brow & Lash Services in Etobicoke
+
+At [Business Name], we offer high‑quality waxing, brow, and lash services designed to help you look and feel your best. With over 23 years of experience, you'll receive expert care using gentle techniques and premium products — all in a clean, cozy studio located at 170 North Queen St., Etobicoke.
+
+### Waxing Services (Body & Facial)
+
+Our waxing services deliver smooth, long‑lasting results using high‑quality wax suitable for sensitive skin. Whether you're preparing for a vacation, maintaining your monthly routine, or trying waxing for the first time, you'll enjoy a gentle, efficient experience.
+
+#### Body Waxing
+
+- Full Leg
+- Half Leg
+- Brazilian
+- Bikini
+- Underarm
+- Full Arm
+- Half Arm
+- Back
+- Chest
+
+#### Facial Waxing
+
+- Brows
+- Upper Lip
+- Chin
+- Sideburns
+
+Waxing results typically last 3–5 weeks, and regular appointments can help hair grow back finer and softer over time.
+
+### Brow Services
+
+**Eyebrow Tinting**
+Enhance your natural brow colour for a fuller, more defined look. Perfect for clients with lighter brows or anyone wanting more shape and dimension.
+
+**Eyebrow Shaping**
+Precise shaping tailored to your face using gentle waxing techniques. Ideal for maintaining clean, polished brows.
+
+**Brow Lamination**
+Lift, smooth, and shape your brows for a fuller, fluffy, long‑lasting finish. Results last 6–8 weeks and pair beautifully with brow tinting.
+
+### Lash Services
+
+**Eyelash Tinting**
+Darken and define your lashes for a natural, mascara‑free look. Lash tinting lasts 4–6 weeks and is perfect for clients who want effortless, everyday definition.
+
+### Book Your Appointment
+
+Whether you're searching for waxing Etobicoke, brow lamination near Sherway Gardens, or lash tinting close to The Queensway, you've found your new favourite studio. Book your appointment today and enjoy expert care in a warm, welcoming environment with free parking.
+
+---
+
+## 📍 LOCATION PAGE
+
+**Headline:** Your Trusted Waxing & Brow Studio in Etobicoke — Located at 170 North Queen St
+
+Finding a reliable esthetician shouldn't feel overwhelming. Whether you're searching for waxing in Etobicoke, brow lamination near Sherway Gardens, or lash tinting close to The Queensway, our studio offers a convenient, welcoming, and accessible location right in the heart of Etobicoke. We are proudly located at 170 North Queen St, in the same plaza as Dollarama, with plenty of free parking available for every client.
+
+### A Prime Etobicoke Beauty Destination
+
+Our studio sits in one of Etobicoke's most accessible areas, making it easy for clients to visit from nearby neighbourhoods and surrounding cities. The plaza is clean, safe, and easy to navigate, offering a stress‑free experience from the moment you arrive.
+
+**Address:**
+170 North Queen St
+Etobicoke, ON M9C 1B1
+
+We're minutes away from major landmarks including Sherway Gardens, IKEA Etobicoke, and The Queensway, making us a convenient stop whether you're running errands, shopping, or heading home from work.
+
+### Free Parking & Easy Access
+
+Parking is one of the biggest frustrations for beauty appointments — but not here. Our plaza offers ample free parking, so you never have to worry about meters, street parking, or long walks. The studio entrance is ground‑level, with no stairs or complicated access points, making it ideal for quick appointments or clients with mobility needs.
+
+### Transit‑Friendly Location
+
+If you're arriving by TTC, several bus routes stop nearby, connecting you easily to Etobicoke, Mississauga, and Toronto West. The area is well‑lit, safe, and easy to find, even for first‑time visitors.
+
+### Close to Popular Etobicoke Landmarks
+
+Many clients love pairing their appointments with errands or shopping. We're close to:
+
+- Dollarama (same plaza)
+- Sherway Gardens
+- IKEA Etobicoke
+- Loblaws & LCBO
+- Starbucks & Tim Hortons
+- The Queensway restaurants and shops
+
+This makes it easy to plan your visit around your day — whether you're grabbing groceries, picking up a coffee, or enjoying a shopping trip.
+
+### Serving Etobicoke & Surrounding Communities
+
+Our studio proudly serves clients from:
+
+- Etobicoke
+- Sherway Gardens area
+- Alderwood
+- Long Branch
+- Mimico
+- Mississauga
+- Toronto West
+- The Queensway
+- Islington & Kipling neighbourhoods
+
+If you're searching for waxing near me, brow lamination Etobicoke, lash tinting Etobicoke, or North Queen St esthetician, you've found your new go‑to beauty studio.
+
+### A Comfortable, Private Studio Experience
+
+Inside, you'll find a clean, cozy, and welcoming environment designed to help you relax. With over 23 years of experience, your esthetician provides gentle, efficient waxing, brow, and lash services with a warm, friendly touch. Every appointment is private, comfortable, and tailored to your needs — whether you're visiting for a quick brow tint or a full Brazilian wax.
+
+### Why Clients Choose Us
+
+- 23+ years of professional esthetics experience
+- Gentle waxing techniques (same quality as Waxon)
+- Expertise in brow lamination, tinting, and shaping
+- High‑quality products for sensitive skin
+- Convenient Etobicoke location
+- Free parking
+- Warm, friendly, personalized care
+
+### Book Your Appointment
+
+Whether you're a returning client or visiting for the first time, we can't wait to welcome you. Book your appointment today and enjoy expert care in one of Etobicoke's most convenient and trusted beauty locations.
+
+---
+
+## ❓ FAQ PAGE
+
+**Headline:** Frequently Asked Questions — Waxing, Brow Lamination & Lash Tinting in Etobicoke
+
+Choosing the right esthetician matters — and feeling informed helps you feel confident. Below are detailed answers to the most common questions clients ask about waxing, brow lamination, brow tinting, and lash tinting at our Etobicoke studio.
+
+### 1. Does waxing hurt?
+
+Waxing can cause mild discomfort, especially during your first visit, but with over 23 years of experience, I use gentle techniques to make the process as quick and comfortable as possible. Most clients say the anticipation is worse than the actual wax, and it gets easier with every appointment. If you're new to waxing, I'll walk you through everything step‑by‑step.
+
+### 2. How long do waxing results last?
+
+Waxing typically lasts 3–5 weeks, depending on your hair growth cycle. Regular waxing can help hair grow back finer, softer, and slower over time. Many clients notice a significant difference after just a few sessions.
+
+### 3. How should I prepare for my waxing appointment?
+
+To get the best results:
+
+- Exfoliate gently 24 hours before
+- Avoid lotions, oils, or heavy creams the day of
+- Ensure hair is at least ¼ inch long
+- Avoid tanning or sweating right before your appointment
+- Wear loose clothing if you're getting a Brazilian or leg wax
+
+Proper prep helps reduce discomfort and improves results.
+
+### 4. What is brow lamination?
+
+Brow lamination is a treatment that smooths, lifts, and reshapes your natural brow hairs to create a fuller, fluffier, more defined look. It's perfect for anyone with unruly brows, gaps, or thin brows that need structure. Results last 6–8 weeks and pair beautifully with brow tinting.
+
+### 5. Is brow lamination safe?
+
+Yes — when performed by a trained esthetician. I use high‑quality products and tailor the process to your brow type. The treatment is gentle, effective, and safe for most clients. If you have sensitive skin, I can perform a patch test before your appointment.
+
+### 6. What's the difference between brow tinting and brow lamination?
+
+- Tinting adds colour to your brows, making them look fuller and more defined.
+- Lamination restructures the brow hairs to lift and shape them.
+
+Many clients book both for maximum impact, especially those looking for a polished, low‑maintenance brow look.
+
+### 7. How long does lash tinting last?
+
+Lash tinting typically lasts 4–6 weeks, depending on your natural lash cycle. It's perfect for clients who want darker, more defined lashes without mascara. The results are waterproof, smudge‑proof, and ideal for everyday wear.
+
+### 8. Can I wear mascara after lash tinting?
+
+Yes — though most clients love the natural, darkened look and skip mascara altogether. If you do wear mascara, avoid waterproof formulas, as they can dry out the lashes and shorten the life of your tint.
+
+### 9. What should I avoid after waxing?
+
+For 24 hours, avoid:
+
+- Hot showers
+- Saunas
+- Tanning
+- Heavy sweating
+- Tight clothing
+- Scented lotions or products
+
+This helps prevent irritation and ensures smooth results.
+
+### 10. How do I book an appointment?
+
+You can book online (insert link), call, or message. Appointments are recommended to ensure privacy and proper timing. Walk‑ins are not advised due to the personalized nature of each service.
+
+### 11. Do you accept new clients?
+
+Absolutely — new clients are always welcome. Whether it's your first wax or your first brow lamination, I'll walk you through everything and make sure you feel comfortable.
+
+### 12. Where are you located?
+
+We're at 170 North Queen St., Etobicoke, in the plaza with Dollarama. There's lots of free parking, easy access from Sherway Gardens, and quick entry from Highway 427. If you're searching for waxing near me, brow lamination Etobicoke, or lash tinting Etobicoke, you're in the right place.
+
+---
+
+## WAXING AFTERCARE PAGE
+
+**Headline:** Waxing Aftercare — Keep Your Skin Smooth & Healthy
+
+Thank you for choosing [Business Name] for your waxing services in Etobicoke. Proper aftercare is essential for keeping your skin smooth, healthy, and irritation‑free. Whether you received a Brazilian wax, leg wax, underarm wax, or facial waxing, following these steps will help you get the best results.
+
+### What to Expect After Your Wax
+
+It's normal to experience mild redness, sensitivity, or small bumps immediately after waxing. These symptoms usually fade within a few hours. With proper care, your skin will stay smooth and comfortable.
+
+### First 24 Hours — What to Avoid
+
+Your skin is most sensitive during the first 24 hours. Avoid:
+
+- Hot showers or baths
+- Saunas or steam rooms
+- Heavy sweating or intense workouts
+- Tanning (sun or tanning beds)
+- Swimming pools or hot tubs
+- Tight clothing
+- Scented lotions, oils, or perfumes
+- Touching or picking at the area
+
+These activities can irritate freshly waxed skin and increase the risk of ingrown hairs.
+
+### How to Care for Your Skin
+
+**1. Keep the Area Clean**
+Use a gentle, fragrance‑free cleanser. Avoid scrubbing or exfoliating for the first 48 hours.
+
+**2. Soothe the Skin**
+Apply a calming product such as aloe vera gel or a post‑wax lotion designed for sensitive skin.
+
+**3. Avoid Heat**
+Heat can increase redness and irritation. Stick to lukewarm showers.
+
+**4. Wear Loose Clothing**
+Especially after Brazilian or leg waxing — this helps prevent friction and irritation.
+
+### 48 Hours After Waxing — Start Exfoliating
+
+Once the skin has calmed, begin gentle exfoliation 2–3 times per week. This helps prevent ingrown hairs and keeps your skin smooth.
+
+Use:
+
+- A soft exfoliating mitt
+- A gentle scrub
+- Chemical exfoliants designed for post‑wax care
+
+Avoid harsh scrubs or aggressive exfoliation.
+
+### Ingrown Hair Prevention
+
+To minimize ingrowns:
+
+- Exfoliate regularly
+- Moisturize daily
+- Avoid shaving between waxing appointments
+- Wear breathable fabrics
+
+If you're prone to ingrowns, ask about recommended products during your next visit.
+
+### When to Book Your Next Appointment
+
+Waxing results typically last 3–5 weeks. Regular waxing helps hair grow back finer and softer over time. Most clients book every 4 weeks to maintain smooth, consistent results.
+
+### Have Questions?
+
+If you experience unusual irritation or have questions about your waxing results, feel free to reach out. We're here to help you feel confident and comfortable.
+
+---
+
+## BROW LAMINATION AFTERCARE PAGE
+
+**Headline:** Brow Lamination Aftercare — Keep Your Brows Fluffy & Defined
+
+Thank you for choosing [Business Name] for your brow lamination in Etobicoke. Proper aftercare is essential for maintaining your lifted, fluffy, beautifully shaped brows. Follow these steps to keep your results looking their best for 6–8 weeks.
+
+### First 24 Hours — The Most Important Step
+
+Your brows need time to set into their new shape. For the first 24 hours:
+
+- Do NOT get your brows wet
+- Avoid steam, saunas, and sweating
+- Do not apply makeup or skincare to the brow area
+- Avoid touching, rubbing, or brushing your brows
+- Do not sleep directly on your face
+
+Moisture or pressure can disrupt the lamination and cause the hairs to lose their shape.
+
+### After 24 Hours — Hydrate & Maintain
+
+Once the initial setting period is over, you can resume normal activities. To keep your brows healthy:
+
+**1. Moisturize Daily**
+Use a nourishing oil or brow serum to keep the hairs hydrated. Laminated brows need moisture to stay soft and flexible.
+
+**2. Brush Gently**
+Use a clean spoolie to brush your brows into place each morning. This helps maintain the lifted, fluffy look.
+
+**3. Avoid Harsh Products**
+Skip products with:
+
+- Retinol
+- AHAs/BHAs
+- Strong exfoliants
+- Alcohol
+
+These can weaken the brow hairs and shorten the life of your lamination.
+
+### Makeup Tips
+
+You can wear brow makeup after 24 hours, but choose gentle products:
+
+- Brow gel
+- Brow pencil
+- Brow powder
+
+Avoid waterproof formulas, which can dry out the hairs.
+
+### How Long Brow Lamination Lasts
+
+Results typically last 6–8 weeks, depending on your hair type and aftercare routine. Hydration is key — well‑moisturized brows stay lifted longer.
+
+### When to Book Your Next Appointment
+
+Most clients return every 6–8 weeks to maintain their brow shape. If you also tint your brows, you may want to book tinting every 4–6 weeks for consistent colour.
+
+### Questions or Concerns?
+
+If you notice dryness, flaking, or unexpected changes in your brow shape, reach out anytime. We're here to help you maintain beautiful, healthy brows.
+
+---
+
+## LASH TINTING AFTERCARE PAGE
+
+**Headline:** Lash Tinting Aftercare — Keep Your Lashes Dark & Defined
+
+Thank you for choosing [Business Name] for your lash tinting in Etobicoke. Lash tinting enhances your natural lashes with rich, long‑lasting colour. With proper aftercare, your results will last 4–6 weeks.
+
+### First 24 Hours — Protect Your Tint
+
+To ensure the tint sets properly:
+
+- Avoid getting your lashes wet
+- Skip mascara and eye makeup
+- Avoid steam, saunas, and sweating
+- Do not rub your eyes
+- Avoid oil‑based products
+
+Moisture and oils can cause the tint to fade prematurely.
+
+### After 24 Hours — Maintain Your Lashes
+
+Once the tint has set, you can resume normal activities. To keep your lashes dark and defined:
+
+**1. Avoid Oil‑Based Products**
+Oil breaks down tint faster. Choose oil‑free:
+
+- Makeup removers
+- Cleansers
+- Eye creams
+
+**2. Be Gentle**
+Avoid rubbing your eyes or pulling at your lashes.
+
+**3. Skip Waterproof Mascara**
+Waterproof formulas are drying and require harsh removal, which can fade the tint.
+
+**4. Clean Lashes Daily**
+Use a gentle, oil‑free cleanser to remove debris and keep your lash line healthy.
+
+### How Long Lash Tinting Lasts
+
+Tinted lashes typically stay dark for 4–6 weeks, depending on your natural lash cycle. As new lashes grow in, the colour gradually softens.
+
+### When to Book Your Next Appointment
+
+Most clients return every 4–6 weeks to maintain consistent colour and definition. Lash tinting pairs beautifully with brow tinting or brow lamination for a polished, low‑maintenance look.
+
+### Questions?
+
+If you have any concerns about your lash tint or want personalized aftercare recommendations, feel free to reach out anytime.
+
+---
+
+## 📈 Additional Pages to Develop
+
+Adding these pages will help her rank higher on Google, especially locally:
+
+### Pricing Page
+
+- Clear, simple pricing helps conversions and SEO
+
+### Booking Page
+
+- Even if she uses an external booking system, a dedicated page helps ranking
+
+---
+
+## Important Reminders
+
+- **Remove all "Brow Lamination" references** from the content as requested
+- Replace `[Business Name]` with "The Wax Box by MC"
+- Replace `[Her Name]` with the client's preferred professional name
+- All content emphasizes 23+ years of experience
+- Consistent location mentions throughout (SEO strategy)
+- Use provided images/logo to match the business aesthetic
+- Before you do anything, let me know if you have all the information. Do not implement anything until we have a fixed plan.
+- From omc use the following agents:
+  - designer
+  - planner
+  - ux-researcher
+  - info-architect
+  - architect
+  - verifier
+  - executor
+  - code-reviewer
+  - style-reviewer
+  - quality-reviewer
+  - security-reviewer
+  - perf-reviewer

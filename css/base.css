@@ -1,0 +1,140 @@
+/* ============================================
+   The Wax Box by MC — Base Styles
+   Reset, CSS Custom Properties, Typography
+   ============================================ */
+
+/* ---- CSS Reset ---- */
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+    line-height: 1.6;
+}
+
+img, picture, video, canvas, svg {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+input, button, textarea, select {
+    font: inherit;
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+    overflow-wrap: break-word;
+}
+
+/* ---- CSS Custom Properties (Design Tokens) ---- */
+:root {
+    /* Color Palette */
+    --cream: #FAF0E6;
+    --gold: #C9930A;
+    --gold-light: #E8B84B;
+    --chocolate: #2C1A0E;
+    --rose-blush: #F2C4C4;
+    --warm-white: #FFFDF8;
+
+    /* Transparent Color Variants */
+    --gold-10: rgba(201, 147, 10, 0.1);
+    --gold-15: rgba(201, 147, 10, 0.15);
+    --gold-20: rgba(201, 147, 10, 0.2);
+    --gold-25: rgba(201, 147, 10, 0.25);
+    --gold-30: rgba(201, 147, 10, 0.3);
+    --chocolate-10: rgba(44, 26, 14, 0.1);
+    --black-10: rgba(0, 0, 0, 0.1);
+
+    --chocolate-12: rgba(44, 26, 14, 0.12);
+    
+    /* Typography */
+    --font-display: 'Playfair Display', serif;
+    --font-script: 'Great Vibes', cursive;
+    --font-body: 'Lato', sans-serif;
+    
+    /* Layout */
+    --max-width: 1100px;
+    --nav-height: 80px;
+}
+
+/* ---- Base Typography ---- */
+html {
+    font-size: 16px;
+}
+
+body {
+    font-family: var(--font-body);
+    color: var(--chocolate);
+    background-color: var(--cream);
+    line-height: 1.6;
+}
+
+h1, h2, h3 {
+    font-family: var(--font-display);
+    font-weight: 600;
+    line-height: 1.2;
+    margin-bottom: 1rem;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+p {
+    margin-bottom: 1rem;
+}
+
+/* ---- Links ---- */
+a {
+    color: var(--chocolate);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: var(--gold);
+}
+
+/* ---- Images ---- */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* ---- Focus Styles (Keyboard Navigation) ---- */
+a:focus,
+button:focus,
+input:focus,
+textarea:focus,
+select:focus {
+    outline: 2px solid var(--gold);
+    outline-offset: 2px;
+}
+
+a:focus:not(:focus-visible) {
+    outline: none;
+}
+
+a:focus-visible,
+button:focus-visible {
+    outline: 2px solid var(--gold);
+    outline-offset: 2px;
+}

@@ -1,0 +1,341 @@
+/* ============================================
+   The Wax Box by MC — Layout Styles
+   Navigation, Footer, Page Structure
+   ============================================ */
+
+/* ---- Body Spacing for Fixed Nav ---- */
+body {
+    padding-top: var(--nav-height);
+}
+
+/* ---- Navigation ---- */
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: var(--nav-height);
+    background: var(--warm-white);
+    z-index: 1000;
+    transition: box-shadow 0.3s ease;
+}
+
+nav.scrolled {
+    box-shadow: 0 2px 8px var(--chocolate-12);
+}
+
+.nav-container {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 24px;
+}
+
+.logo {
+    height: 56px;
+    object-fit: contain;
+}
+
+.nav-links {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    gap: 28px;
+    align-items: center;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: var(--chocolate);
+    font-family: var(--font-body);
+    font-size: 0.95rem;
+    font-weight: 400;
+    letter-spacing: 0.02em;
+    padding-bottom: 2px;
+    border-bottom: 2px solid transparent;
+    transition: border-color 0.2s ease;
+}
+
+.nav-links a:hover {
+    border-bottom-color: var(--gold);
+    color: var(--gold);
+}
+
+.nav-links a.active {
+    border-bottom-color: transparent;
+    background: var(--gold-20);
+    color: var(--gold);
+    font-weight: 700;
+    padding: 4px 10px;
+    border-radius: 20px;
+}
+
+.nav-links .btn-book-now {
+    background: var(--gold-light);
+    color: var(--chocolate);
+    padding: 10px 20px;
+    border-bottom: none;
+    border-radius: 4px;
+    font-family: var(--font-display);
+    font-weight: 700;
+    font-size: 1rem;
+    letter-spacing: 0.03em;
+    line-height: 1;
+    text-decoration: none;
+    transition: background 0.2s ease;
+}
+
+.nav-links .btn-book-now:hover {
+    background: var(--gold);
+    color: var(--chocolate);
+    border-bottom-color: transparent;
+}
+
+/* ---- Dropdown (Aftercare) ---- */
+.dropdown {
+    position: relative;
+}
+
+.dropdown-toggle {
+    background: none;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-family: var(--font-body);
+    font-size: 0.95rem;
+    color: var(--chocolate);
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    padding-bottom: 2px;
+    border-bottom: 2px solid transparent;
+    transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+.dropdown-toggle:hover {
+    border-bottom-color: var(--gold);
+    color: var(--gold);
+}
+
+.dropdown-toggle:focus-visible {
+    outline: 2px solid var(--gold);
+    outline-offset: 2px;
+}
+
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: var(--warm-white);
+    box-shadow: 0 4px 12px var(--chocolate-10);
+    border-radius: 4px;
+    min-width: 180px;
+    list-style: none;
+    padding: 8px 0;
+    display: none;
+    z-index: 100;
+}
+
+.dropdown-menu li a {
+    display: block;
+    padding: 10px 16px;
+    color: var(--chocolate);
+    text-decoration: none;
+    font-size: 0.9rem;
+    border-bottom: none !important;
+}
+
+.dropdown-menu li a:hover {
+    background: var(--cream);
+}
+
+@media (min-width: 768px) {
+    .dropdown:hover .dropdown-menu {
+        display: block;
+    }
+}
+
+.dropdown-open .dropdown-menu {
+    display: block;
+}
+
+/* ---- Hamburger (Mobile) ---- */
+.hamburger {
+    display: none;
+    flex-direction: column;
+    gap: 5px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 4px;
+}
+
+.hamburger span {
+    display: block;
+    width: 24px;
+    height: 2px;
+    background: var(--chocolate);
+    transition: all 0.3s ease;
+}
+
+@media (max-width: 767px) {
+    .hamburger {
+        display: flex;
+    }
+
+    .nav-links {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        top: var(--nav-height);
+        left: 0;
+        right: 0;
+        background: var(--warm-white);
+        padding: 16px 24px;
+        gap: 16px;
+        box-shadow: 0 4px 12px var(--chocolate-10);
+    }
+
+    .nav-open .nav-links {
+        display: flex;
+    }
+
+    .nav-links a {
+        padding: 8px 0;
+    }
+}
+
+/* ---- Footer ---- */
+.site-footer {
+    background: var(--cream);
+    border-top: 2px solid var(--gold);
+    padding: 48px 0 0;
+}
+
+.footer-container {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 0 24px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 40px;
+}
+
+.footer-col h3 {
+    font-family: var(--font-display);
+    font-size: 1.1rem;
+    color: var(--chocolate);
+    margin-bottom: 16px;
+}
+
+.footer-col p,
+.footer-col ul {
+    font-size: 0.9rem;
+    color: var(--chocolate);
+    line-height: 1.8;
+}
+
+.footer-col ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-col a {
+    color: var(--chocolate);
+    text-decoration: none;
+}
+
+.footer-col a:hover {
+    color: var(--gold);
+}
+
+
+.footer-links-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0 16px;
+}
+
+.footer-links-grid ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-instagram-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    color: var(--chocolate);
+    text-decoration: none;
+    font-size: 0.9rem;
+    transition: color 0.2s ease;
+}
+
+.footer-instagram-link:hover {
+    color: var(--gold);
+}
+
+.footer-bottom {
+    text-align: center;
+    padding: 20px 24px;
+    margin-top: 40px;
+    border-top: 1px solid var(--gold-30);
+    font-size: 0.85rem;
+    color: var(--chocolate);
+}
+
+@media (max-width: 767px) {
+    .footer-container {
+        grid-template-columns: 1fr;
+        gap: 32px;
+    }
+}
+
+/* ---- Main Layout ---- */
+main {
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
+}
+
+
+/* ---- Page Wrapper ---- */
+.page-wrapper {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 0 24px;
+}
+
+section {
+    padding: 64px 0;
+}
+
+.section-title {
+    font-family: var(--font-display);
+    font-size: 2rem;
+    color: var(--chocolate);
+    margin-bottom: 8px;
+    text-align: center;
+}
+
+.section-subtitle {
+    font-family: var(--font-body);
+    font-size: 1rem;
+    color: var(--chocolate);
+    opacity: 0.7;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.gold-divider {
+    display: block;
+    width: 60px;
+    height: 2px;
+    background: var(--gold);
+    margin: 12px auto 32px;
+}
