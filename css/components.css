@@ -466,6 +466,48 @@
     margin-right: 8px;
 }
 
+/* ---- Pricing Table ---- */
+.pricing-table {
+    width: 100%;
+}
+
+.pricing-row {
+    display: flex;
+    align-items: baseline;
+    gap: 12px;
+    padding: 14px 0;
+    border-bottom: 1px solid var(--gold-15);
+}
+
+.pricing-row:last-child {
+    border-bottom: none;
+}
+
+.pricing-name {
+    font-family: var(--font-body);
+    font-size: 1rem;
+    color: var(--chocolate);
+    flex: 1;
+}
+
+.pricing-duration {
+    font-family: var(--font-body);
+    font-size: 0.85rem;
+    color: var(--chocolate);
+    opacity: 0.5;
+    white-space: nowrap;
+}
+
+.pricing-price {
+    font-family: var(--font-display);
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--gold);
+    white-space: nowrap;
+    min-width: 60px;
+    text-align: right;
+}
+
 /* ---- Pricing Placeholder ---- */
 .pricing-placeholder {
     text-align: center;
