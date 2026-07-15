@@ -2,3 +2,9 @@
 Thumbs.db
 *.log
 node_modules/
+.omc/
+docs/
+BRIEF.md
+CORRECTIONS.md
+PROMPT.txt
+QUALITY_REVIEW_REPORT.md
