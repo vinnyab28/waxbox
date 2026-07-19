@@ -303,6 +303,10 @@ main {
     gap: 48px;
 }
 
+main > * {
+    width: 100%;
+}
+
 
 /* ---- Page Wrapper ---- */
 .page-wrapper {
@@ -312,7 +316,7 @@ main {
     padding: 0 24px;
 }
 
-section {
+section.bg-warm-white {
     padding: 64px 0;
 }
 

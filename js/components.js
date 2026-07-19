@@ -27,7 +27,7 @@ function injectNav() {
             </ul>
           </li>
           <li><a href="policies.html">Policies</a></li>
-          <li><a href="https://www.fresha.com/book-now/the-wax-room-ndhjrqek/all-offer?share=true&pId=2995913" class="btn-book-now" target="_blank" rel="noopener noreferrer">Book Now</a></li>
+          <li><a href="https://www.fresha.com/book-now/the-wax-box-by-mc-ud9oh5oh/all-offer?share=true&pId=2995913" class="btn-book-now" target="_blank" rel="noopener noreferrer">Book Now</a></li>
         </ul>
         <button class="hamburger" aria-label="Toggle menu" aria-expanded="false">
           <span></span>
@@ -53,7 +53,7 @@ function injectFooter() {
           <h3>Contact Us</h3>
           <p>
             <a href="mailto:the.wax.box@outlook.com">the.wax.box@outlook.com</a><br>
-            Phone: Coming soon<br><br>
+            Phone: <a href="tel:+16472397644">647-239-7644</a><br><br>
             <a href="location.html">170 North Queen St., Unit K Suite #50<br>
             Etobicoke, ON M9C 1B1</a>
           </p>
