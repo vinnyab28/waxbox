@@ -750,3 +750,37 @@
     color: var(--chocolate);
     margin: 32px 0 16px;
 }
+
+/* ---- Studio Hours ---- */
+.hours-list {
+    list-style: none;
+    padding: 0;
+    max-width: 280px;
+}
+
+.hours-list li {
+    display: flex;
+    justify-content: space-between;
+    padding: 6px 0;
+    font-family: var(--font-body);
+    font-size: 0.95rem;
+    color: var(--chocolate);
+    border-bottom: 1px solid var(--gold-15);
+}
+
+.hours-list li:last-child {
+    border-bottom: none;
+}
+
+.hours-list li span {
+    font-weight: 700;
+    color: var(--chocolate);
+    min-width: 50px;
+}
+
+/* ---- Picture Element (WebP Fallback Support) ---- */
+.hero picture,
+.aftercare-diagram picture,
+.logo-link picture {
+    display: contents;
+}

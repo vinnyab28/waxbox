@@ -100,4 +100,23 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     });
   }
+
+  // ---- Set Active Nav Link ----
+  const currentPage = window.location.pathname.split('/').pop() || 'index.html';
+  const page = currentPage === '' ? 'index.html' : currentPage;
+
+  document.querySelectorAll('nav a').forEach(link => {
+    const href = link.getAttribute('href');
+    if (href && !href.startsWith('http') && href === page) {
+      link.classList.add('active');
+      link.setAttribute('aria-current', 'page');
+    }
+  });
+
+  if (page === 'aftercare-waxing.html' || page === 'aftercare-lash.html') {
+    const dropdownToggle = document.querySelector('.dropdown-toggle');
+    if (dropdownToggle) {
+      dropdownToggle.classList.add('active');
+    }
+  }
 });
